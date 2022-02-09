@@ -1,9 +1,9 @@
 let clrs = [
-'#D85678', //top 0
-'#E36B89', //middle top 1 
-'#FCC7CF', //midle strip 2 
-'#FDE3EG', //middl bottom 3
-'#F79BB4', //bottom 4
+'#FFBF00', //top 0
+'#FBCEB1', //middle top 1 
+'#F2D2BD', //midle strip 2 
+'#D27D2D', //middl bottom 3
+'#E3963E', //bottom 4
 ]
 
 function setup() {
